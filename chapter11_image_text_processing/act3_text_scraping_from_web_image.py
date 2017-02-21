@@ -40,4 +40,3 @@ for image in sorted(imageList):
     f = open("page"+str(i)+".txt", "r", encoding="utf-8")
     print(f.read())
     i += 1
-    

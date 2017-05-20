@@ -95,7 +95,7 @@ ENV/
 # Rope project settings
 .ropeproject
 
-.idea/workspace.xml
+.idea
 chapter10_javascript_scraping/ghostdriver.log
 chapter11_image_text_processing/ghostdriver.log
 chapter11_image_text_processing/kitten.jpg
